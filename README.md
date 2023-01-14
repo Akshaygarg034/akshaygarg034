@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-red?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-grey?&style=for-the-badge&logo=ExpressJs&logoColor=white)&nbsp;
 ![react](https://img.shields.io/badge/react-grey?&style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/NodeJs-black?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/NodeJs-green?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
 ![Pug](https://img.shields.io/badge/Pug-grey?&style=for-the-badge&logo=Pug&logoColor=white)&nbsp;
 ![tailwind](https://img.shields.io/badge/tailwind-blue?&style=for-the-badge&logo=tailwind&logoColor=white)&nbsp;
@@ -28,8 +28,7 @@
 ![oops](https://img.shields.io/badge/oops-grey?&style=for-the-badge&logo=oops&logoColor=yellow)&nbsp;
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<!-- skillsEnd -->
-<p ><a href="https://akshaygarg034.github.io"> <img src="https://github-profile-trophy.vercel.app/?username=akshaygarg034&theme=monokai" alt="akshaygarg034" /></a></p>  
+<!-- skillsEnd --> 
 <hr> 
 
 ### We Can 🤝🏼 On  
