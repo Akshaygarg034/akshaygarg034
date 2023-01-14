@@ -2,7 +2,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="httpsa://github.com/akshaygarg034">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaygarg034&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaygarg034&theme=dracula&layout=compact&count_private=false" />
 </a><br>
 <a href="https://profile-summary-for-github.com/user/akshaygarg034" style="color: coral;text-decoration: none;">View Detailed Analysis</a>
