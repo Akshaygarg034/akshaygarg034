@@ -34,7 +34,6 @@
 ### We Can 🤝🏼 On  
 
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/">
-
   <img alt="Akshay on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/__akshay_garg__/" target='_blank'>
