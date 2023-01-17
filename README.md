@@ -34,13 +34,13 @@
 ### We Can 🤝🏼 On  
 
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/">
-  <img alt="Akshay on LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/__akshay_garg__/" target='_blank'>
-  <img alt="Akshay on insta" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
+  <img alt="Instagram" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
 </a>
 <a href="mailto:akshaygarg034@gmail.com">
-  <img alt="mail to Akshay" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
+  <img alt="Email" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
 <hr> 
 <br>
