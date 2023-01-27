@@ -36,10 +36,10 @@
 
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/">
   <img alt="LinkedIN" width="22px" style="margin: 10px;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 <a href="https://www.instagram.com/__akshay_garg__/" target='_blank'>
   <img alt="Instagram" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
-</a>
+</a><br>
 <a href="mailto:akshaygarg034@gmail.com">
   <img alt="Email" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
