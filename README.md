@@ -39,9 +39,6 @@
 </a><br>
 <a href="https://www.instagram.com/__akshay_garg__/" target='_blank'>
   <img alt="Instagram" width="22px" style="margin: 10px;" src="icons/instagram.svg" />
-</a><br>
-<a href="mailto:akshaygarg034@gmail.com">
-  <img alt="Email" width="22px" style="margin: 10px;" src="icons/gmail.svg" />
 </a>
 <hr> 
 <br>
