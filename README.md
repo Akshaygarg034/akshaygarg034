@@ -44,7 +44,6 @@
 <br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
-<img alt="Thanks For Visit"  width='589px' height='62px' src='images/thanks.png'><br>
 <hr> 
 P.S. <br>
 &nbsp - I will be glad if you contact me for collaboration. <br>
