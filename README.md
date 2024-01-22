@@ -35,7 +35,7 @@
 ### We Can 🤝🏼 On  
 
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/">
-  <img alt="LinkedIN" width="28px" style="margin: 10px;" src="icons/linkedin.svg" />
+  <img alt="LinkedIN" width="30px" style="margin: 10px;" src="icons/linkedin.svg" />
 </a>
 <hr> 
 <br>
