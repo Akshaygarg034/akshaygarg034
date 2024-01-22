@@ -40,7 +40,7 @@
 <hr> 
 <br>
  <h3>I like Exchanging Jokes; here's one for you😀</h3><br>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" /><br>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="margin:0px" />
 <hr> 
 P.S. <br>
 &nbsp - I will be glad if you contact me for collaboration. <br>
