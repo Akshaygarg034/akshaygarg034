@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-red?logo=JavaScript&style=for-the-badge)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/python-green?&style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-gray?&style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![react.js](https://img.shields.io/badge/reactjs-blue?&style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/nextjs-black?&style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
