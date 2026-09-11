@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:4c1d95,100:2563eb&height=210&section=header&text=Akshay%20Garg&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descSize=20&descColor=e0f2fe&descAlignY=58&animation=fadeIn" width="100%" alt="Akshay Garg banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:1e3a8a,100:0ea5e9&height=210&section=header&text=Akshay%20Garg&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descSize=20&descColor=bae6fd&descAlignY=58&animation=fadeIn" width="100%" alt="Akshay Garg banner" />
 
 <div align="center">
 
@@ -9,12 +9,12 @@
 
 <br/>
 
-<a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
 <a href="mailto:gargakshay034@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://leetcode.com/u/Akshaygarg2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Akshaygarg034&style=for-the-badge&color=6d28d9&label=Profile+Views&base=710" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Akshaygarg034&style=for-the-badge&color=1d4ed8&label=Profile+Views&base=710" alt="Profile views" />
 
 </div>
 
@@ -133,10 +133,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaygarg034&theme=tokyonight" width="100%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaygarg034&theme=prussian" width="100%" alt="Profile details" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshaygarg034&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaygarg034&theme=tokyonight" height="180" alt="Top languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshaygarg034&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaygarg034&theme=prussian" height="180" alt="Top languages" />
 
 </div>
 
@@ -152,14 +152,14 @@
 
 <a href="mailto:gargakshay034@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/akshay-garg-360281213/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>&nbsp;
-<a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://leetcode.com/u/Akshaygarg2002/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-<a href="https://github.com/Akshaygarg034?tab=followers"><img src="https://img.shields.io/github/followers/Akshaygarg034?style=for-the-badge&logo=github&logoColor=white&color=6D28D9&label=Follow" alt="GitHub followers" /></a>
+<a href="https://github.com/Akshaygarg034?tab=followers"><img src="https://img.shields.io/github/followers/Akshaygarg034?style=for-the-badge&logo=github&logoColor=white&color=1D4ED8&label=Follow" alt="GitHub followers" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev quote" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:4c1d95,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,55:1e3a8a,100:0b1220&height=120&section=footer" width="100%" alt="footer" />
