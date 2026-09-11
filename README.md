@@ -133,14 +133,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaygarg034&theme=prussian" width="100%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaygarg034&theme=react" width="100%" alt="Profile details" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshaygarg034&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaygarg034&theme=prussian" height="180" alt="Top languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Akshaygarg034&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaygarg034&theme=react" height="180" alt="Top languages" />
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## 🤝 Let's Connect
 
@@ -155,5 +155,4 @@
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev quote" />
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,55:1e3a8a,100:0b1220&height=120&section=footer" width="100%" alt="footer" />
