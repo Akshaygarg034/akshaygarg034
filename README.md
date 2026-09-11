@@ -49,18 +49,18 @@
   <tr>
     <td align="right" nowrap><b>AI / ML</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LLMs-4C1D95?style=for-the-badge" alt="LLMs" />
-      <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG" />
-      <img src="https://img.shields.io/badge/Agentic%20AI-4C1D95?style=for-the-badge" alt="Agentic AI" />
+      <img src="https://img.shields.io/badge/LLMs-1E3A8A?style=for-the-badge" alt="LLMs" />
+      <img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge" alt="RAG" />
+      <img src="https://img.shields.io/badge/Agentic%20AI-1E3A8A?style=for-the-badge" alt="Agentic AI" />
       <img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=1FBF9F" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=langgraph&logoColor=1FBF9F" alt="LangGraph" />
       <img src="https://img.shields.io/badge/vLLM-1E293B?style=for-the-badge&logo=vllm&logoColor=FDB515" alt="vLLM" />
       <img src="https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Hugging%20Face-1E293B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/Transformers-1E293B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers" />
-      <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-4C1D95?style=for-the-badge" alt="LoRA / QLoRA" />
+      <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-1E3A8A?style=for-the-badge" alt="LoRA / QLoRA" />
       <img src="https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTEgNi4wNDYgNi4wNDYgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE1Ljk4NSA1Ljk4NSAwIDAgMC0zLjk5OCAyLjkgNi4wNDYgNi4wNDYgMCAwIDAgLjc0MyA3LjA5NyA1Ljk4IDUuOTggMCAwIDAgLjUxIDQuOTExIDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE1IDIuOUE1Ljk4NSA1Ljk4NSAwIDAgMCAxMy4yNiAyNGE2LjA1NiA2LjA1NiAwIDAgMCA1Ljc3Mi00LjIwNiA1Ljk5IDUuOTkgMCAwIDAgMy45OTctMi45IDYuMDU2IDYuMDU2IDAgMCAwLS43NDctNy4wNzN6TTEzLjI2IDIyLjQzYTQuNDc2IDQuNDc2IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxIDQuNzc5LTIuNzU4YS43OTUuNzk1IDAgMCAwIC4zOTItLjY4MXYtNi43MzdsMi4wMiAxLjE2OGEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NHpNMy42IDE4LjMwNGE0LjQ3IDQuNDcgMCAwIDEtLjUzNS0zLjAxNGwuMTQyLjA4NSA0Ljc4MyAyLjc1OWEuNzcxLjc3MSAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZ6TTIuMzQgNy44OTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjYtMS45NzNWMTEuNmEuNzY2Ljc2NiAwIDAgMCAuMzg4LjY3Nmw1LjgxNSAzLjM1NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTUuODMzLTMuMzg3TDE1LjExOSA3LjJhLjA3Ni4wNzYgMCAwIDEgLjA3MSAwbDQuODMgMi43OTFhNC40OTQgNC40OTQgMCAwIDEtLjY3NiA4LjEwNXYtNS42NzhhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMS0zLjAyM2wtLjE0MS0uMDg1LTQuNzc0LTIuNzgyYS43NzYuNzc2IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIzVjYuODk3YS4wNjYuMDY2IDAgMCAxIC4wMjgtLjA2MWw0LjgzLTIuNzg3YTQuNSA0LjUgMCAwIDEgNi42OCA0LjY2em0tMTIuNjQgNC4xMzVsLTIuMDItMS4xNjRhLjA4LjA4IDAgMCAxLS4wMzgtLjA1N1Y2LjA3NWE0LjUgNC41IDAgMCAxIDcuMzc1LTMuNDUzbC0uMTQyLjA4TDguNzA0IDUuNDZhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8+PC9zdmc+" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Gemini-1E293B?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Gemini-1E293B?style=for-the-badge&logo=googlegemini&logoColor=4796E3" alt="Gemini" />
       <img src="https://img.shields.io/badge/Ollama-1E293B?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
     </td>
   </tr>
@@ -117,12 +117,12 @@
     <td align="right" nowrap><b>Core CS</b></td>
     <td>
       <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E3A8A?style=for-the-badge" alt="Data Structures & Algorithms" />
-      <img src="https://img.shields.io/badge/System%20Design-4C1D95?style=for-the-badge" alt="System Design" />
-      <img src="https://img.shields.io/badge/Design%20Patterns-7F1D1D?style=for-the-badge" alt="Design Patterns" />
-      <img src="https://img.shields.io/badge/OOP-78350F?style=for-the-badge" alt="OOP" />
-      <img src="https://img.shields.io/badge/Operating%20Systems-831843?style=for-the-badge" alt="Operating Systems" />
-      <img src="https://img.shields.io/badge/DBMS-064E3B?style=for-the-badge" alt="DBMS" />
-      <img src="https://img.shields.io/badge/Computer%20Networks-164E63?style=for-the-badge" alt="Computer Networks" />
+      <img src="https://img.shields.io/badge/System%20Design-0C4A6E?style=for-the-badge" alt="System Design" />
+      <img src="https://img.shields.io/badge/Design%20Patterns-1E3A8A?style=for-the-badge" alt="Design Patterns" />
+      <img src="https://img.shields.io/badge/OOP-0C4A6E?style=for-the-badge" alt="OOP" />
+      <img src="https://img.shields.io/badge/Operating%20Systems-1E3A8A?style=for-the-badge" alt="Operating Systems" />
+      <img src="https://img.shields.io/badge/DBMS-0C4A6E?style=for-the-badge" alt="DBMS" />
+      <img src="https://img.shields.io/badge/Computer%20Networks-1E3A8A?style=for-the-badge" alt="Computer Networks" />
     </td>
   </tr>
 </table>
@@ -144,22 +144,16 @@
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
-<i>Open to collaborations on GenAI, RAG, agentic systems and AI infrastructure.</i>
-
-<br/><br/>
-
-<a href="mailto:gargakshay034@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/akshay-garg-360281213/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>&nbsp;
-<a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://leetcode.com/u/Akshaygarg2002/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-<a href="https://github.com/Akshaygarg034?tab=followers"><img src="https://img.shields.io/github/followers/Akshaygarg034?style=for-the-badge&logo=github&logoColor=white&color=1D4ED8&label=Follow" alt="GitHub followers" /></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev quote" />
-
-</div>
+<p align="center">
+  <i>Open to collaborations on GenAI, RAG, agentic systems and AI infrastructure.</i>
+  <br/><br/>
+  <a href="mailto:gargakshay034@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/akshay-garg-360281213/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://akshay-garg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Akshaygarg2002/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+  <a href="https://github.com/Akshaygarg034?tab=followers"><img src="https://img.shields.io/github/followers/Akshaygarg034?style=for-the-badge&logo=github&logoColor=white&color=1D4ED8&label=Follow" alt="GitHub followers" /></a>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev quote" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,55:1e3a8a,100:0b1220&height=120&section=footer" width="100%" alt="footer" />
